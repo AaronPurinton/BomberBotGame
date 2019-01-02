@@ -1,0 +1,11 @@
+BomberBot is a puzzle/maze running game in which
+the objective is to get to the end square of a given maze within the allotted time.
+there are bricks that be be destroyed with the use of a bomb that will be required to progress.
+
+Arrow keys to move
+Space to place bomb
+
+The explosion of the bomb can hurt you!
+6 hits and BomberBot will fail his mission
+
+Good Luck BomberBot
